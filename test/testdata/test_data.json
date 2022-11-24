@@ -1,0 +1,34 @@
+[
+    {
+        "data": {
+            "edit_history_tweet_ids": [
+                1234567890123456789,
+                1234567890123456789
+            ],
+            "id": "0",
+            "text": "this is a test tweet 0"
+        },
+        "matching_rules": [
+            {
+                "id": "0",
+                "tag": "test"
+            }
+        ]
+    },
+    {
+        "data": {
+            "edit_history_tweet_ids": [
+                1234567890123456789,
+                1234567890123456789
+            ],
+            "id": "1",
+            "text": "this is a test tweet 1"
+        },
+        "matching_rules": [
+            {
+                "id": "1",
+                "tag": "test"
+            }
+        ]
+    }
+]

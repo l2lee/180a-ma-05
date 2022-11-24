@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "l2lee/180-ma5:latest",
+    "build-script": "python run.py test"
+}
